@@ -1,0 +1,62 @@
+body {
+	background: #181818; font-family: 'Lato', helvetica, arial, sans-serif; color: #222;}
+
+.clear{clear: both;}
+
+#cv {
+	width: 90%;
+	max-width: 800px;
+	background: #f3f3f3;
+	margin: 30px auto;
+}
+
+.mainDetails {
+	padding: 25px 35px;
+	border-bottom: 2px solid #cf8a05;
+	background: #ededed;
+}
+
+#name h1 {
+	font-size: 2.5em;
+	font-weight: 700;
+	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	margin-bottom: -6px;
+}
+
+#name h3 {
+	font-size: 2em;
+	margin-left: 2px;
+	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+}
+
+#mainArea {
+	padding: 0 40px;
+}
+
+#headshot {
+	width: 12.5%;
+	float: left;
+	margin-right: 30px;
+}
+
+#headshot img {
+	width: 100%;
+	height: auto;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+}
+
+section {
+	border-top: 1px solid #dedede;
+	padding: 20px 0 0;
+}
+
+.sectionTitle {
+	float: left;
+	width: 25%;
+}
+
+.sectionContent {
+	float: right;
+	width: 72.5%;
+}
